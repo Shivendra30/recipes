@@ -1,0 +1,2 @@
+This is a sample cold coffee recipe which containes nothing about cold coffee
+Just made it to test my Git skills
